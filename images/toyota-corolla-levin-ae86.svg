@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#846f54"/><stop offset="1" stop-color="#372c24"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#b)"/><rect y="350" width="800" height="100" fill="#171816"/><path d="M80 308l62-70 120-65 190-2 142 77 120 62H80Z" fill="#e9e5d8" stroke="#fffdf1" stroke-width="5"/><path d="M260 173l192-2 142 77H205Z" fill="#abb6b6"/><path d="M205 173l77-55h178l92 130" fill="#2d3b3f" stroke="#bbc5c3" stroke-width="5"/><circle cx="228" cy="324" r="64" fill="#151719"/><circle cx="228" cy="324" r="36" fill="#919b9d"/><circle cx="590" cy="324" r="64" fill="#151719"/><circle cx="590" cy="324" r="36" fill="#919b9d"/><rect x="96" y="263" width="88" height="31" rx="8" fill="#b9bdb8"/><text x="40" y="70" fill="#fff" font-family="Arial" font-size="38" font-weight="700">COROLLA LEVIN</text>
+</svg>

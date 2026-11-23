@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#63747d"/><stop offset="1" stop-color="#20282d"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#b)"/><rect y="350" width="800" height="100" fill="#111315"/><path d="M70 312l58-65 145-78 190-12 156 82 112 72H70Z" fill="#bfc5c4" stroke="#edf1ed" stroke-width="5"/><path d="M281 169l181-12 157 95H214Z" fill="#dfe5e3"/><path d="M205 169l87-61h195l77 144" fill="#26343a" stroke="#bbc6c7" stroke-width="5"/><circle cx="228" cy="326" r="68" fill="#101214"/><circle cx="228" cy="326" r="40" fill="#879195"/><circle cx="594" cy="326" r="68" fill="#101214"/><circle cx="594" cy="326" r="40" fill="#879195"/><path d="M625 267l90 17-11 25-91-9Z" fill="#c8d7db"/><text x="40" y="70" fill="#fff" font-family="Arial" font-size="38" font-weight="700">SILVIA S15</text>
+</svg>
