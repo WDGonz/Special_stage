@@ -479,7 +479,7 @@ button:focus-visible {
 .manifesto-image {
   min-height: 440px;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.12)),
-    url("7Q7YH4NVMZA3RBC3DKDZZ7UAQU.avif") center / cover no-repeat;
+    url("images/7Q7YH4NVMZA3RBC3DKDZZ7UAQU.avif") center / cover no-repeat;
 }
 
 .manifesto-copy {
