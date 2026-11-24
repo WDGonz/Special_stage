@@ -42,3 +42,8 @@ El carrusel usa Bootstrap cuando la biblioteca está disponible. Si no carga des
 - **Recursos locales:** imágenes AVIF, WebP, JPEG/JFIF, SVG y PNG.
 
 El proyecto no requiere backend, proceso de compilación ni dependencias locales de npm. Bootstrap y Google Fonts sí requieren conexión a Internet; el sitio cuenta con estilos de respaldo para el carrusel si Bootstrap no está disponible.
+
+
+
+Technologies That I used👨🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode)]
